@@ -12,3 +12,13 @@ body {
     width: 100%;
     overflow: hidden;
 }
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 240px;
+    background: #11101d;
+    padding: 6px 14px
+}
