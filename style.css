@@ -22,3 +22,21 @@ body {
     background: #11101d;
     padding: 6px 14px
 }
+
+.sidebar .logo-content .logo {
+    color: #fff;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+}
+
+.logo_content .logo i {
+    font-size: 28px;
+    margin-right: 5px;
+}
+
+.logo-content .logo .logo-name {
+    font-size: 20px;
+    font-weight: 400;
+}
